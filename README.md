@@ -4,6 +4,8 @@ This project is a React frontend built with Vite. It provides a simple authentic
 
 This file was added as a project-specific guide without modifying the existing root `README.md`.
 
+NOTE: This project does not use .env file for the simplicity of the project and all the important variables are hardcoded.
+
 ## Tech Stack
 
 - React 19
